@@ -4,6 +4,9 @@ Usage:
 
 ```
 perl extract_rows_by_gene_id.pl -i demo_all_gene_table.txt -l demo_interested_gene_list.txt -o my_output.txt
+
+# keep the sequence of key words as input
+perl extract_rows_by_gene_id_ver2.pl -i demo_all_gene_table.txt -l demo_interested_gene_list.txt -o my_output.txt
 ```
 
 ### Full gene table: demo_all_gene_table
