@@ -1,5 +1,7 @@
 # data_extraction
 
+These scripts are used for extracting interested rows from a table base on a series of key words. The usage is listed below.
+
 Usage:
 
 ```
